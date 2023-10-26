@@ -20,6 +20,6 @@ If using .ipynb file then reun separate cells in IDE.
 
 ## Manual Steps
 
---> Load the image and create separate files for stroing the output. 
+--> Load the image and create separate files for storing the output. 
 Here there is Output folder with output.txt and output.xlsx where you results would be stored
 
